@@ -8,7 +8,7 @@ This project presents an **Exploratory Data Analysis (EDA)** on the Black Friday
 - **Columns**: 12 (after preprocessing)
 - **Features**:
   - 'User_ID`, `Product_ID`
-  - 'Gender', 'Age`, `Occupation`, `City_Category`
+  - 'Gender', 'Age` , `Occupation`, `City_Category`
   - 'Stay_In_Current_City_Years`, `Marital_Status`
   - 'Product_Category_1`, `Purchase` *(target variable)*
 
